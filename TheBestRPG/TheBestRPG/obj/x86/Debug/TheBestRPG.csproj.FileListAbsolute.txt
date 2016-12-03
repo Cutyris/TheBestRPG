@@ -1,0 +1,2 @@
+D:\--------PROJEKTY RPG--------\TheBestRPG\TheBestRPG\TheBestRPG\obj\x86\Debug\TheBestRPG.csprojResolveAssemblyReference.cache
+D:\--------PROJEKTY RPG--------\TheBestRPG\TheBestRPG\TheBestRPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
